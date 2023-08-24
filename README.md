@@ -20,17 +20,15 @@ Este é um projeto didático que demonstra como criar um frontend de chatbot uti
    cd chatbot-flask-openai
    ```
 
-4. Instale as bibliotecas Python necessárias usando o `pip`:
+4. Instale o flask usando o `pip`:
 
    ```bash
-   pip install -r requirements.txt
+   pip install flask
    ```
 
 ## Uso
 
-1. Renomeie o arquivo `.env.example` para `.env`.
-
-2. Abra o arquivo `.env` e substitua `'sua_chave_da_openai'` pela sua chave de API da OpenAI.
+1.insira sua `'sua_chave_da_openai'` pela sua chave de API da OpenAI.
 
 3. Execute o aplicativo Flask:
 
